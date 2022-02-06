@@ -27,6 +27,10 @@ export default {
             name: "Latviešu"
         },
         {
+            locale: "hu",
+            name: "Magyar"
+        },
+        {
             locale: "nl",
             name: "Nederlands"
         },
@@ -45,6 +49,14 @@ export default {
         {
             locale: "fi",
             name: "Suomi"
+        },
+        {
+            locale: "es",
+            name: "Spanish"
+        },
+	{
+            locale: "sv",
+            name: "Svenska"
         },
         {
             locale: "ja",
